@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fn6VdU5aZMdbYTKD7WufRukN/k+WSXQKT5kn6cyIKRusuyXIyhCK3jw4yw5lmYNxxuIGHEPlO+wlifByi7vXxQ==",
+  "dgSpecHash": "c7NO2mKlw5IhlqKThZXJe/WSuxAywR9KFfoQd3SYDwAu7tucKqj27Icaq5xqK22ipspo54D7cjeU554rvqPhkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\folak\\source\\repos\\DemoProject123\\DemoProject123\\DemoProject123.csproj",
+  "projectFilePath": "C:\\Users\\folak\\source\\repos\\Work\\DemoProject123\\DemoProject123\\DemoProject123.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\folak\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\folak\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
